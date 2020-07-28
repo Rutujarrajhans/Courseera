@@ -6,8 +6,6 @@ Issues
 Marketplace
 Explore
  
-@Rutujarrajhans 
-siddartha19
 /
 Coursera-HTML-CSS-and-JavaScript-for-Web-Developers
 1
@@ -22,7 +20,6 @@ Wiki
 Security
 Insights
 Coursera-HTML-CSS-and-JavaScript-for-Web-Developers/Assignments/module-5/js/bootstrap.js /
-@siddartha19
 siddartha19 Add files via upload
 Latest commit dca8fae on Dec 30, 2018
  History
